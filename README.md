@@ -5,7 +5,7 @@ This GitHub repository contains a Google Colab notebook that showcases the integ
 ## Features
 1. Model Exploration:
 - The notebook includes code to list all available models from the library that support the embedding content generation method, providing insights into the specific models you can work with.
-2.Embedding Content:
+2. Embedding Content:
 - Demonstrates how to generate embeddings for a given piece of text using a specific model. This is crucial for tasks like document retrieval, where the semantic understanding of content is necessary.
 3. Document Retrieval:
 - Implements a document retrieval system where documents are represented by their embeddings. A search query is embedded, and the notebook retrieves the document most similar to the query from a predefined list, using the cosine similarity between embeddings.
